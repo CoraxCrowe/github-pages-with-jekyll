@@ -3,6 +3,7 @@ author: Corax
 email: no@gmil.com
 description: > # this means to ignore newlines until "baseurl:"
   I want to create a society where people can achieve individual happiness and satisfaction.
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
